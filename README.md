@@ -1,17 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/kDg1bNCUZsUpmBdMwA/giphy.gif?cid=ecf05e476421azz2f497j464miqhfehuwk8k781lbthd7ccj&rid=giphy.gif&ct=g" width='200'/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/mykhaylo-pelykh-55587017b/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:mykhaylopelykh@gmail.com">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail&logoColor=red" alt="Email Badge"/>
-    </a>
-  </div>
-  <h1>
-    Hello !! I am a Reactjs Front-End Developer.
-  </h1>
-  
+
   
 ### :hammer_and_wrench: Languages and Tools :
   <div>
@@ -32,10 +20,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   </div>
   <br />
-  <h3>
-    :desktop_computer:
-    <a href="https://mykhaylo-pelykh.netlify.app/">My Portfolio</a>
-  </h3>
 
   <div align="center">
     <img src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47oigs70l7xwnth0fv00vwrb6qm454y2hlk1zk3wku&rid=giphy.gif&ct=g" width="500"/>
